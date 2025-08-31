@@ -1,4 +1,3 @@
-import {  } from "@clerk/nextjs";
 import { auth } from "@clerk/nextjs/server";
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
