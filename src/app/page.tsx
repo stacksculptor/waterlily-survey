@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Card, CardContent, CardHeader, CardTitle } from "~/components/ui/card";
-import { Shield, CheckCircle, TrendingUp, Users, Check } from "lucide-react"
+import { Shield, CheckCircle, TrendingUp, Users } from "lucide-react"
 import { SignedIn, SignedOut, SignInButton } from "@clerk/nextjs";
 import { Button } from "~/components/ui/button";
 
